@@ -1,6 +1,7 @@
+package desafios;
+
 import java.util.Scanner;
 
-// Aqui é definido uma classe chamada VerificadorElegibilidadeConta:
 public class VerificadorElegibilidadeConta {
 
     public static void main(String[] args) {
