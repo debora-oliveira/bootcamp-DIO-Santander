@@ -7,10 +7,4 @@ representar as funcionalidades do iPhone lançado em 2007, conforme o descritivo
 Ferramentas utilizadas:
 [Draw.io](https://www.drawio.com/)
 
-Diagrama desenvolvido:<br>
-![iPhone](desafioDiagrama/diagrama_iPhone.png)
-
-
-
-
-
+Diagrama desenvolvido no [link](https://github.com/debora-oliveira/bootcamp-DIO-Santander/blob/main/desafios-DIO/src/desafioDiagrama/diagrama_iPhone.png)
